@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.paint.LinearGradient?>
+<?import javafx.scene.paint.Stop?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="947.0" prefWidth="921.0" style="-fx-background-image: url('file:C:/Users/samination/Documents/fjfj.jpg');" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pi.projet.Controllers.ModifierArticleController">
+   <children>
+      <Label layoutX="137.0" layoutY="72.0" prefHeight="53.0" prefWidth="319.0" text="Modifier un Article">
+         <font>
+            <Font size="36.0" />
+         </font>
+         <textFill>
+            <LinearGradient endX="1.0" endY="1.0">
+               <stops>
+                  <Stop color="#511111" />
+                  <Stop color="WHITE" offset="1.0" />
+               </stops>
+            </LinearGradient>
+         </textFill>
+      </Label>
+      <Label layoutX="26.0" layoutY="190.0" prefHeight="39.0" prefWidth="232.0" text="Id de l Article a modifier">
+         <font>
+            <Font name="System Bold" size="20.0" />
+         </font>
+         <textFill>
+            <LinearGradient endX="1.0" endY="1.0">
+               <stops>
+                  <Stop color="#616b54" />
+                  <Stop color="WHITE" offset="1.0" />
+               </stops>
+            </LinearGradient>
+         </textFill>
+      </Label>
+      <TextField fx:id="entry2_1" layoutX="265.0" layoutY="197.0" promptText="identifiant" />
+      <Label layoutX="35.0" layoutY="273.0" prefHeight="27.0" prefWidth="159.0" text="Nom Posteur">
+         <font>
+            <Font name="System Bold Italic" size="23.0" />
+         </font>
+         <textFill>
+            <LinearGradient endX="1.0" endY="1.0">
+               <stops>
+                  <Stop color="#616b54" />
+                  <Stop color="WHITE" offset="1.0" />
+               </stops>
+            </LinearGradient>
+         </textFill>
+      </Label>
+      <Label layoutX="51.0" layoutY="460.0" prefHeight="35.0" prefWidth="91.0" text="Prix">
+         <font>
+            <Font name="System Bold Italic" size="24.0" />
+         </font>
+         <textFill>
+            <LinearGradient endX="1.0" endY="1.0">
+               <stops>
+                  <Stop color="#616b54" />
+                  <Stop color="WHITE" offset="1.0" />
+               </stops>
+            </LinearGradient>
+         </textFill>
+      </Label>
+      <Label layoutX="26.0" layoutY="395.0" prefHeight="34.0" prefWidth="143.0" text="Description">
+         <font>
+            <Font name="System Bold Italic" size="23.0" />
+         </font>
+         <textFill>
+            <LinearGradient endX="1.0" endY="1.0">
+               <stops>
+                  <Stop color="#616b54" />
+                  <Stop color="WHITE" offset="1.0" />
+               </stops>
+            </LinearGradient>
+         </textFill>
+      </Label>
+      <Label layoutX="51.0" layoutY="513.0" prefHeight="27.0" prefWidth="62.0" text="Etat">
+         <font>
+            <Font name="System Bold" size="26.0" />
+         </font>
+         <textFill>
+            <LinearGradient endX="1.0" endY="1.0">
+               <stops>
+                  <Stop color="#616b54" />
+                  <Stop color="WHITE" offset="1.0" />
+               </stops>
+            </LinearGradient>
+         </textFill>
+      </Label>
+      <Label layoutX="26.0" layoutY="334.0" prefHeight="32.0" prefWidth="143.0" text="Date D'Ajout">
+         <font>
+            <Font name="System Bold" size="22.0" />
+         </font>
+         <textFill>
+            <LinearGradient endX="1.0" endY="1.0">
+               <stops>
+                  <Stop color="#616b54" />
+                  <Stop color="WHITE" offset="1.0" />
+               </stops>
+            </LinearGradient>
+         </textFill>
+      </Label>
+      <TextField fx:id="entry2_2" layoutX="265.0" layoutY="261.0" promptText="Nom" />
+      <TextField fx:id="entry2_6" layoutX="265.0" layoutY="519.0" />
+      <TextField fx:id="entry2_5" layoutX="265.0" layoutY="461.0" promptText="en dinar" />
+      <TextField fx:id="entry2_4" layoutX="265.0" layoutY="396.0" />
+      <TextField fx:id="entry2_3" layoutX="265.0" layoutY="335.0" promptText="année-mois-jour" />
+      <Button fx:id="button2" layoutX="276.0" layoutY="689.0" mnemonicParsing="false" opacity="0.9" prefHeight="53.0" prefWidth="171.0" style="-fx-background-color: grey;" text="Modifier">
+         <font>
+            <Font name="Berlin Sans FB" size="28.0" />
+         </font>
+         <textFill>
+            <LinearGradient endX="1.0" endY="1.0">
+               <stops>
+                  <Stop color="#616b54" />
+                  <Stop color="#1f12d0" offset="1.0" />
+               </stops>
+            </LinearGradient>
+         </textFill>
+      </Button>
+   </children>
+</AnchorPane>

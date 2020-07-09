@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/samination/Documents/NetBeansProjects/JavaApplication7/src/pi/projet/PiProjet.java</file>
+            <file>file:/C:/Users/samination/Documents/NetBeansProjects/JavaApplication7/src/pi/projet/Controllers/FXML.fxml</file>
+            <file>file:/C:/Users/samination/Documents/NetBeansProjects/JavaApplication7/src/pi/projet/Controllers/FXMLController.java</file>
+            <file>file:/C:/Users/samination/Documents/NetBeansProjects/JavaApplication7/src/pi/projet/Controllers/AcceuilAnnonce.fxml</file>
+            <file>file:/C:/Users/samination/Documents/NetBeansProjects/JavaApplication7/src/pi/projet/Controllers/AfficherAnnonce_1.fxml</file>
+            <file>file:/C:/Users/samination/Documents/NetBeansProjects/JavaApplication7/src/pi/projet/Controllers/SupArticle.fxml</file>
+            <file>file:/C:/Users/samination/Documents/NetBeansProjects/JavaApplication7/src/pi/projet/Controllers/AfficherAnnonceController1.java</file>
+            <file>file:/C:/Users/samination/Documents/NetBeansProjects/JavaApplication7/src/pi/projet/Techniques/MyConnection.java</file>
+            <file>file:/C:/Users/samination/Documents/NetBeansProjects/JavaApplication7/src/pi/projet/Entities/Treservation.java</file>
+            <file>file:/C:/Users/samination/Documents/NetBeansProjects/JavaApplication7/src/pi/projet/Services/CRUDClass.java</file>
+            <file>file:/C:/Users/samination/Documents/NetBeansProjects/JavaApplication7/src/pi/projet/Services/Reserver.java</file>
+            <file>file:/C:/Users/samination/Documents/NetBeansProjects/JavaApplication7/src/pi/projet/Controllers/AfficherAnnonceController.java</file>
+            <file>file:/C:/Users/samination/Documents/NetBeansProjects/JavaApplication7/src/pi/projet/Tests/accueil.java</file>
+            <file>file:/C:/Users/samination/Documents/NetBeansProjects/JavaApplication7/src/pi/projet/Controllers/AcceuilAnnonceController.java</file>
+            <file>file:/C:/Users/samination/Documents/NetBeansProjects/JavaApplication7/src/pi/projet/Controllers/AfficherAnnonce.fxml</file>
+            <file>file:/C:/Users/samination/Documents/NetBeansProjects/JavaApplication7/src/pi/projet/Controllers/AfficherAnnonceController11.java</file>
+            <file>file:/C:/Users/samination/Documents/NetBeansProjects/JavaApplication7/src/pi/projet/Controllers/SupArticleController.java</file>
+            <file>file:/C:/Users/samination/Documents/NetBeansProjects/JavaApplication7/src/pi/projet/Entities/Transport.java</file>
+            <file>file:/C:/Users/samination/Documents/NetBeansProjects/JavaApplication7/src/pi/projet/Tests/AfficherAnnonce.java</file>
+            <file>file:/C:/Users/samination/Documents/NetBeansProjects/JavaApplication7/src/pi/projet/Controllers/ReserverController.java</file>
+            <file>file:/C:/Users/samination/Documents/NetBeansProjects/JavaApplication7/src/pi/projet/Controllers/ModifierArticleController.java</file>
+            <file>file:/C:/Users/samination/Documents/NetBeansProjects/JavaApplication7/src/pi/projet/Tests/Reserver.java</file>
+            <file>file:/C:/Users/samination/Documents/NetBeansProjects/JavaApplication7/src/pi/projet/Controllers/Personne.java</file>
+            <file>file:/C:/Users/samination/Documents/NetBeansProjects/JavaApplication7/src/pi/projet/Controllers/Chanteur.java</file>
+            <file>file:/C:/Users/samination/Documents/NetBeansProjects/JavaApplication7/src/pi/projet/Controllers/Annuler_ResrvationController.java</file>
+            <file>file:/C:/Users/samination/Documents/NetBeansProjects/JavaApplication7/src/pi/projet/Controllers/Modifier%20Article.fxml</file>
+            <file>file:/C:/Users/samination/Documents/NetBeansProjects/JavaApplication7/src/pi/projet/Controllers/DfdmController.java</file>
+        </group>
+    </open-files>
+</project-private>
